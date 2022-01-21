@@ -1,0 +1,86 @@
+{
+  "got_it": "Got it",
+  "yes": "Yes",
+  "no": "No",
+  "ok": "OK",
+  "back": "Back",
+  "order": "Order",
+  "tel": "tel",
+  "email": "email",
+  "mobile": "mobile",
+  "address": "Address",
+  "name": "Name",
+  "family": "Family",
+  "save": "Save",
+  "min": "Minutes",
+  "retry": "Retry",
+  "no_item": "No items found",
+  "more_items": "More items",
+  "submit_success": "successfully submitted ",
+  "save_changes_success": "Changes saved successfully",
+  "toman": "Toman",
+  "pay": "Pay",
+  "date_format": "%{date}, at %{time}",
+  "apply": "Apply",
+  "error": {
+    "no_internet": "You do not have internet access",
+    "no_internet_desc": "Please make sure you have an internet connection and try again",
+    "general_desc": "Please try again moments later",
+    "general": "An error has occurred!",
+    "required": "This field is required",
+    "net_general": "Unable to access server"
+  },
+  "auth": {
+    "phone_number": "Mobile number",
+    "otp": "Activation code",
+    "first_name": "First name (required)",
+    "last_name": "Last name",
+    "send_otp": "Send activation code",
+    "change_phone_number": "Change mobile number",
+    "verify": "Verify",
+    "resend_otp": "Resend activation code %{counter}",
+    "in_sec": "in %{counter} second",
+    "otp_resent": "The activation code has been resent to you",
+    "otp_caption": "Enter the code sent to %{phoneNumber}.",
+    "register": "Register",
+    "login": "Login",
+    "unauth_text": "Log in to your account to use the features",
+    "phone_number_label": "Enter your mobile number",
+    "phone_number_hint": "Then the activation code will be sent to your mobile number",
+    "otp_label": "Enter activation code",
+    "phone_placeholder": "for example: 09123456789",
+    "info_label": "Enter your information",
+    "term_p1": "By signup in Cafe 2080 you accept",
+    "term_p2": " terms and Conditions ",
+    "term_p3": "of the use of the app and the site"
+  },
+  "refreshing": {
+    "loading": "Loading...",
+    "pull": "Pull down to update",
+    "release": "Release to update"
+  },
+  "home": {
+    "title": "Home"
+  },
+  "detail": {
+    "title": "Detail"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "persian": "فارسی",
+    "english": "English"
+  },
+  "not_found": {
+    "title": "Oops!",
+    "desc": "This screen doesn't exist.",
+    "button": "Go to home screen!"
+  },
+  "app_update": {
+    "title": "App updates",
+    "desc": "You are currently use the old version (%{current}) of the app, please update to the latest version (%{new}).",
+    "update": "Update",
+    "later": "Maybe later",
+    "not_this_version": "Ignore this version"
+  }
+}

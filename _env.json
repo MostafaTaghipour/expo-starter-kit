@@ -1,0 +1,8 @@
+{
+  "ENVIRONMENT": "development",
+  "API_URL": "DEVELOPMENT_URL",
+  "USE_MOCK_DATA": true,
+  "LOG_NETWORK_REQUEST": true,
+  "LOG_REDUX_ACTIONS": true,
+  "NETWORK_REQUEST_TIMEOUT_IN_SEC": 40
+}

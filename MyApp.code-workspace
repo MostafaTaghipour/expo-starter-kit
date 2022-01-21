@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "./"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"node_modules/": true,
+			".expo/": true,
+			".next/": true,
+			"dist/": true,
+			"pages/": true,
+			".expo-shared/": true,
+			".vscode/": true,
+			"web-build/": true,
+			"scripts/": true,
+			".gitignore": true,
+			"_env.json": true,
+			"package-lock.json": true,
+			"yarn.lock": true,
+			"yarn-error.log": true,
+			"next-env.d.ts": true,
+		},
+		"cSpell.words": []
+	}
+}

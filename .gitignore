@@ -1,0 +1,42 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
+# @generated: @expo/next-adapter@2.1.39
+/.expo/*
+# Expo Web
+/web-build/*
+# Expo Native
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+# Next.js
+/.next/*
+/out/
+# Next.js production
+/build/
+# Next.js dependencies
+/.pnp
+.pnp.js
+# @end @expo/next-adapter
+
+# @generated: @expo/electron-adapter@0.0.25
+/.expo/*
+# Expo Web
+/web-build/*
+# electron-webpack
+/dist
+# @end @expo/electron-adapter

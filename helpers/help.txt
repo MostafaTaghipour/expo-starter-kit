@@ -1,0 +1,38 @@
+How to debug:
+    - disable remote debugging
+    - close all remote debug windows
+    - run app
+    - run attach to packager
+    - enable remote debugging
+
+Icons List:
+    - https://icons.expo.fyi/
+    - https://oblador.github.io/react-native-vector-icons/
+    - https://infinitered.github.io/ionicons-version-3-search/
+
+Add custom icons:
+    - https://www.reactnative.guide/12-svg-icons-using-react-native-vector-icons/12.1-creating-custom-iconset.html
+    - https://docs.expo.io/guides/icons/
+
+Configure Spash Screen
+    - yarn run expo-splash-screen --help
+    - https://www.npmjs.com/package/expo-splash-screen
+
+Use SVG files
+    - convert svg files to JSX (https://react-svgr.com/playground/?native=true)
+
+Shadow generator
+    - https://ethercreative.github.io/react-native-shadow-generator/
+
+Hooks
+    - https://github.com/react-native-community/hooks
+    - https://github.com/rehooks/awesome-react-hooks
+    - https://github.com/EvanBacon/react-native-web-hooks
+    
+resolve issues after eject
+    - expo-update issue : https://github.com/expo/expo/issues/10880#issuecomment-720029218
+
+release 
+    - https://www.instamobile.io/android-development/generate-react-native-release-build-android/
+    - https://reactnative.dev/docs/signed-apk-android
+    - https://wiki.saucelabs.com/display/DOCS/Creating+an+ipa+File
