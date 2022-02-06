@@ -1,0 +1,12 @@
+aslamanver.vsc-export
+dsznajder.es7-react-js-snippets
+eamodio.gitlens
+eg2.vscode-npm-script
+esbenp.prettier-vscode
+flowtype.flow-for-vscode
+msjsdiag.vscode-react-native
+naumovs.color-highlight
+PKief.material-icon-theme
+rangav.vscode-thunder-client
+steoates.autoimport
+vector-of-bool.gitflow

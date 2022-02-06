@@ -74,11 +74,16 @@ if (
 // storybook
 // easy app builder
 // git flow
-// react navigation 6 
+// react navigation 6
 // fastlane
 // hoskey
 // react-native-clean-project
 // documentation
+// reac-freez
+// new gesture-handler and reanimated and layoue animation
+// media queies https://blog.expo.dev/media-queries-with-react-native-for-ios-android-and-web-e0b73ed5777b
+// use expo new features if need https://blog.expo.dev/introducing-expo-run-commands-835ae8da4813 https://blog.expo.dev/introducing-custom-development-clients-5a2c79a9ddf8 https://docs.expo.dev/workflow/customizing/ https://dev.to/expo/introducing-eas-c63 https://blog.swmansion.com/top-7-myths-about-expo-in-2021-ee66f929bf9f
+// dynamic config https://docs.expo.dev/workflow/configuration/  https://www.techynovice.com/building-multiple-versions-of-an-expo-or-expokit-app/
 
 export default function AppContainer() {
   const isLoadingComplete = useCachedResources();
@@ -130,3 +135,7 @@ function App() {
     </>
   );
 }
+
+
+
+
